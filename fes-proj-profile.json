@@ -16,7 +16,7 @@
         },
         "resourceType": {
           "resourceType": true,
-          "name": false
+          "name": true
         },
         "citation": {
           "basicInformation": {
